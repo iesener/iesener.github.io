@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Political Science Ph.D. Student at Washington University in St. Louis. I ate Benjamin Groebe.
+I am a Political Science Ph.D. Student at Washington University in St. Louis.
 
