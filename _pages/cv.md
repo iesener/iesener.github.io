@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Under Construction. 
+[Ipek_CV_August2021](/files/IpekEceSener_CV_August2021.pdf){: .btn--research}
+
