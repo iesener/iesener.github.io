@@ -88,9 +88,15 @@
   /* information */
 
   &--info {
-    background-color: $info-color;
+    color: $info-color !important; /* override*/
+    background-color: transparent;
+    border: 2px solid $info-color !important; /* override*/
+    margin-bottom: 0.1em;
+    padding: 0.2em 0.7em; 
+    font-size: $type-size-5.5;
 
     &:hover {
+      color: white !important;  /* override*/
       background-color: mix(#000, $info-color, 20%);
     }
   }
