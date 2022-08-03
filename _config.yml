@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "İpek Ece Şener"
 title_separator          : "-"
 name                     : &name "İpek Ece Şener"
-description              : &description "Ph.D. Student"
+description              : &description "Ph.D. Candidate"
 url                      : https://iesener.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iesener/iesener.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "İpek Ece Şener"
   avatar           : "ipek_pic.png"
-  bio              : "PhD Student at Washington University in St. Louis"
+  bio              : "PhD Candidate at Washington University in St. Louis"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

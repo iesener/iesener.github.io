@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+### 2022 Teaching Assistant, Pol Sci 3171: Conflict and Security in International Relations, WUSTL
+* Graded exams; held regular office hours.
+
 ### 2021 Teaching Assistant, Pol Sci 102: _Introduction to Comparative Politics,_ WUSTL.
 * Prepared and led weekly problem sessions for the first-year undergraduate course; held regular office hours.
 
