@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Ipek_CV_November2022](/files/IpekEceSener_CV_November2022.pdf){: .btn--research}
+[Ipek_CV_September2023](/files/IpekEceSener_CV_September2023.pdf){: .btn--research}
 
