@@ -4,7 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PKJS2WFZ01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-PKJS2WFZ01');
+</script>
 
 ### 2022 Teaching Assistant, Pol Sci 3171: Conflict and Security in International Relations, WUSTL
 * Graded exams; held regular office hours.

@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PKJS2WFZ01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PKJS2WFZ01');
+</script>
 
 I study civil conflict, political violence, and quantitative political methodology. My research looks at the ways the microdynamics of civil war are connected to the international system of which they are a part.
 

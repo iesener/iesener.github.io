@@ -6,6 +6,15 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PKJS2WFZ01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PKJS2WFZ01');
+</script>
 
 ## I am a McDonnell International Scholars Academy Scholar
 

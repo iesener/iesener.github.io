@@ -11,7 +11,15 @@ Does the participation of armed actors in peace talks influence their strategy o
 "
 collection: portfolio
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PKJS2WFZ01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-PKJS2WFZ01');
+</script>
 
 How should international policy makers decide with whom to discuss the future of complex civil wars which involve multiple actors fighting against each other? One could argue that some belligerents engage in such inhumane behavior that the international community should avoid inviting them to peace talks as that would grant them legitimacy. On the other hand, it could be possible to motivate belligerents to comply with international humanitarian law by providing them a platform to express their grievances and participate in the legal process to end fighting. My paper deals with these questions in the context of the Syrian Civil War. Leveraging time series research techniques on novel territorial control data, I question the consequences of excluding civil war belligerents from peace negotiations organized to resolve a civil war. The findings suggest that belligerents who are invited to international peace talks are more likely to target combatants and less likely to target civilians before such a negotiation meeting. This paper is currently under review.
 

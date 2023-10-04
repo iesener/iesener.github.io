@@ -3,14 +3,21 @@ title: "State Oppression, Activist Propaganda, and Support for Militancy"
 excerpt: "
 
 <details>
-  <summary>Abstract</summary>
-  
-Illegal militants and legal activists often co-exist within dissident movements. Why do the sympathizers of a movement support militancy given the existence of an activist organization affiliated with the movement? In this paper, I argue that state oppression of activism boosts support for militancy, whilst activist propaganda promoting peaceful means diminishes support for it. To test these expectations, I conduct a list experiment in Southeast Turkey, where the militant group PKK and the activist political party HDP garner significant support. My research design presents sympathizer individuals with treatment videos that vary in the degrees of state oppression and activist mobilizing propaganda. I further test the mechanisms driving support for militancy using pre- and post-treatment questions. Results demonstrate that state oppression against activism elicits a sense of inability to affect political process, leading to a surge in support for militancy. Activist mobilizing propaganda boosts admiration for activist leadership, diminishing support for militancy. This paper shows that movement activists' emphasis on struggle with non-violent means, as well as state precluding the use of these means can affect support for armed groups. 
+  <summary>Abstract</summary>  Illegal militants and legal activists often co-exist within dissident movements. Why do the sympathizers of a movement support militancy given the existence of an activist organization affiliated with the movement? In this paper, I argue that activist agitative propaganda promoting peaceful means to mobilize supporters diminishes support for militancy. Activist organizations' emotional messages promoting civil resistance and non-violent struggle, which I call agitative propaganda, can curb the support for the militants' armed campaign.
 </details>
 
 "
 collection: portfolio
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PKJS2WFZ01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PKJS2WFZ01');
+</script>
 
 Illegal militants and legal activists often co-exist within dissident movements. Why do the sympathizers of a movement support militancy given the existence of an activist organization affiliated with the movement? In this paper, I argue that activist agitative propaganda promoting peaceful means to mobilize supporters diminishes support for militancy. Activist organizations' emotional messages promoting civil resistance and non-violent struggle, which I call agitative propaganda, can curb the support for the militants' armed campaign. 
 
