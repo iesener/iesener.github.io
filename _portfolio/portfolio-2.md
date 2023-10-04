@@ -21,7 +21,7 @@ collection: portfolio
 
 Illegal militants and legal activists often co-exist within dissident movements. Why do the sympathizers of a movement support militancy given the existence of an activist organization affiliated with the movement? In this paper, I argue that activist agitative propaganda promoting peaceful means to mobilize supporters diminishes support for militancy. Activist organizations' emotional messages promoting civil resistance and non-violent struggle, which I call agitative propaganda, can curb the support for the militants' armed campaign. 
 
-To test this expectation, I conducted a list experiment using treatment videos in Southeast Turkey, where the militant group PKK and the activist political party HDP garner significant support. My research design presents sympathizer individuals with treatment videos that vary in the degrees of state oppression and activist mobilizing propaganda. 
+To test this expectation, I conducted a list experiment using treatment videos in Southeast Turkey, where the militant group PKK and the activist political party HDP garner significant support. The survey sample is 1600 Kurdish residents in ages between 18-35. My research design presents sympathizer individuals with treatment videos that vary in the degrees of activist mobilizing propaganda. 
 
 High and low agitation videos are created using excerpts from Kurdish political party HDP's imprisoned leader Selahattin Demirtas's speech from 2018. Selahattin Demirtas is an important figure who has been vocal about the need to bring an end violence and death of both Kurdish fighters and Turkish servicemen. He garnered support from all ages of Kurdish people across the country as well as Turkish progressives, and was imprisoned at the height of his political career. The speech I use in the experiment was recorded while he was running for president soon after his imprisonment. It was aired on national TV and widely shared on social media. In the low agitation prompt, he highlights the importance of voting in the national elections. A short segment of the Control Video I used in my experiment is as follows:
 
@@ -42,4 +42,4 @@ After watching each of the randomly assigned treatment videos, I introduce a lis
 ### Figure 1: The Effect of Agitation on the Support for PKK
 <br/><img src='/images/agitation_results.jpg' width="500px">
  
-Please refer to the full <a href="https://osf.io/792eg/">manuscript</a> for further details on the measurement strategy and robustness checks.
+Please refer to the full <a href="https://osf.io/792eg/">manuscript</a> for further details on the measurement strategy and robustness checks, as well as the state oppression component of the survey.
