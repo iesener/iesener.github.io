@@ -40,6 +40,6 @@ The high agitation video starts the same as the low agitation video, but continu
 After watching each of the randomly assigned treatment videos, I introduce a list experiment that measures responsents' support for the militant group PKK. Figure 1 presents the results. Results suggest that watching the high activist agitation video significantly diminishes the support for the militant organization PKK. 
 
 ### Figure 1: The Effect of Agitation on the Support for PKK
-<br/><img src='/images/agitation_results.pdf'>
+<br/><embed src='/images/agitation_results.pdf'>
  
 Please refer to the full manuscript for further details on the measurement strategy and robustness checks.
