@@ -42,4 +42,4 @@ After watching each of the randomly assigned treatment videos, I introduce a lis
 ### Figure 1: The Effect of Agitation on the Support for PKK
 <br/><img src='/images/agitation_results.jpg' width="500px">
  
-Please refer to the full manuscript for further details on the measurement strategy and robustness checks.
+Please refer to the full <a href="https://osf.io/792eg/"><em>manuscript</em></a> for further details on the measurement strategy and robustness checks.
