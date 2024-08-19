@@ -24,7 +24,7 @@ I grew up in Samsun, a small Turkish city on the shores of the Black Sea. The pi
 
 <br/><img src='/images/koy_img.JPG'>
 
-My great grandparents lived in different parts of the Eastern Balkans. After mübadele, the population exchange between Grece and Turkey, they were placed to Samsun's mountainous villages shown above. Parts of my greater family still live here.
+My great grandparents lived in different parts of the Eastern Balkans. After <em>mübadele</em>, the population exchange between Greece and Turkey, they were placed to Samsun's mountainous villages shown above. Parts of my greater family still live here.
 
 ## I graduated from Boğaziçi University with a BA
 
