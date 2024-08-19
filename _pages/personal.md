@@ -28,7 +28,7 @@ My great grandparents lived in different parts of the Eastern Balkans. After mü
 
 ## I graduated from Boğaziçi University with a BA
 
-<br/><img src='/images/bogazici_img.JPG'>
+<br/><img src='/images/bogazici_img.jpg'>
 
 Boğaziçi is famously one of the most welcoming campuses for street cats. My dormitory life there was characterized by sharing all residential spaces with these cats, the true owners of the campus. Less importantly, the campus also has a breathtaking view of the Bosphorus.
 
