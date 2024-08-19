@@ -16,14 +16,27 @@ redirect_from:
   gtag('config', 'G-PKJS2WFZ01');
 </script>
 
-## I am a McDonnell International Scholars Academy Scholar
+## I grew up in Samsun, Turkey
 
-<br/><img src='/images/mcdonnell.jpeg'>
+<br/><img src='/images/blacksea_img.JPG'>
 
-[McDonnell Academy](https://mcdonnell.wustl.edu) brings together a multinational and multidisciplinary graduate student body. This picture is from the annual reception in 2019 when we welcomed new scholars to the program.
+I grew up in Samsun, a small Turkish city on the shores of the Black Sea. The picture above shows my hometown's beautiful coastline.
 
-## I am a member of WashU Grad and Undergrad Workers Union
+<br/><img src='/images/koy_img.JPG'>
 
-<br/><img src='/images/wugwu.jpg'>
+My great grandparents lived in different parts of the Eastern Balkans. After mübadele, the population exchange between Grece and Turkey, they were placed to Samsun's mountainous villages shown above. Parts of my greater family still live here.
 
-[WashU Grad and Undergrad Workers Union](https://wugwu.org) is a student union that aims to improve the working conditions of all campus workers at WashU. The picture above is taken the last day of a month-long campaign that aimed to increase the minimum wage to \$15/hr for all campus workers. Soon after the end of this campaign, Chancellor Andrew Martin [announced](https://andrewdmartin.wustl.edu/minimum-wage/) that they will be increasing minimum hourly wage to \$15/hour for _non-student_ workers. WUGWU is still addressing campus workers' needs such as the need for childcare and broader healthcare benefits.
+## I graduated from Boğaziçi University with a BA
+
+<br/><img src='/images/bogazici_img.JPG'>
+
+Boğaziçi is famously one of the most welcoming campuses for street cats. My dormitory life there was characterized by sharing all residential spaces with these cats, the true owners of the campus. Less importantly, the campus also has a breathtaking view of the Bosphorus.
+
+
+## I was a McDonnell International Scholars Academy Scholar at WashU
+
+<br/><img src='/images/mcdonnell_graduation.jpg'>
+
+[McDonnell Academy](https://mcdonnell.wustl.edu) brings together a multinational and multidisciplinary graduate student body. This picture is from our graduation ceremony in May 2024.
+
+
