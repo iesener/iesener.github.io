@@ -21,7 +21,7 @@ Fall 2024, GOV 94IS: _Democracy and Authoritarianism in the Middle East and Nort
 [Syllabus](/files/GOV94IS_Syllabus.pdf){: .btn--research}
 
 
-Fall 2024, GOV 1705: _Politics of War and Peace in the Middle East,_ Harvard University
+Spring 2025, GOV 1705: _Politics of War and Peace in the Middle East,_ Harvard University
 
 [Syllabus](/files/GOV1705_Syllabus.pdf){: .btn--research}
 
