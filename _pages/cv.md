@@ -16,5 +16,5 @@ redirect_from:
   gtag('config', 'G-PKJS2WFZ01');
 </script>
 
-[Ipek_CV_August2024](/files/IpekEceSener_CV_August2024.pdf){: .btn--research}
+[Ipek_CV_October2024](/files/IpekEceSener_CV_October2024.pdf){: .btn--research}
 
