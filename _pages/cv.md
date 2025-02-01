@@ -16,5 +16,5 @@ redirect_from:
   gtag('config', 'G-PKJS2WFZ01');
 </script>
 
-[Ipek_CV_October2024](/files/IpekEceSener_CV_October2024.pdf){: .btn--research}
+[Ipek's CV (January 2025)](https://www.dropbox.com/scl/fi/glaosox2i3gv4zd0osicd/IpekSener_CV_Jan2025.pdf?rlkey=jxd4g1ama8iuostd1qfjo079e&st=cvogitdm&dl=0){: .btn--research}
 
