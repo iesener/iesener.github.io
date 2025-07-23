@@ -16,5 +16,10 @@ redirect_from:
   gtag('config', 'G-PKJS2WFZ01');
 </script>
 
-[Ipek's CV (March 2025)](https://www.dropbox.com/scl/fi/dhbe64b3vyyp85plizkig/IpekEceSener_CV_March2025.pdf?rlkey=vfuts54mnyavo5t7avkyqq78c&st=x605u1j1&dl=0){: .btn--research}
+
+
+<embed src="https://www.dropbox.com/scl/fi/dsscnrx3w1caw5drnm644/IpekEceSener_CV_July2025.pdf?rlkey=bl9sqjd3axe74ljp6tdd96o5i&dl=0" width="500" height="375" 
+ type="application/pdf">
+
+[Ipek's CV (July 2025)](https://www.dropbox.com/scl/fi/dsscnrx3w1caw5drnm644/IpekEceSener_CV_July2025.pdf?rlkey=bl9sqjd3axe74ljp6tdd96o5i&dl=0){: .btn--research}
 
