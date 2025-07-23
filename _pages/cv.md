@@ -17,6 +17,11 @@ redirect_from:
 </script>
 
 
+ 
 
-<embed src="https://www.dropbox.com/scl/fi/dsscnrx3w1caw5drnm644/IpekEceSener_CV_July2025.pdf?rlkey=bl9sqjd3axe74ljp6tdd96o5i&dl=0" width="500" height="375" 
- type="application/pdf">
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://www.dropbox.com/scl/fi/dsscnrx3w1caw5drnm644/IpekEceSener_CV_July2025.pdf?rlkey=bl9sqjd3axe74ljp6tdd96o5i&dl=0" width="500" height="375">
+
+
+
+
