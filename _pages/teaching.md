@@ -16,13 +16,11 @@ author_profile: true
 
 ### Instructor
 
-Spring 2025, GOV 1705: _Politics of War and Peace in the Middle East,_ Harvard University
+* Spring 2025, GOV 1705: _Politics of War and Peace in the Middle East,_ Harvard University
+ 
 
-[Syllabus](https://www.dropbox.com/scl/fi/p1x35o7jbaj6oa5ve5szp/GOV-1705-Syllabus.pdf?rlkey=mcgniriyde96bp5p3d7u5g1rh&st=uo7s9l4w&dl=0){: .btn--research}
-
-Fall 2024, GOV 94IS: _Democracy and Authoritarianism in the Middle East and North Africa,_ Harvard University
-
-[Syllabus](https://www.dropbox.com/scl/fi/zswb3i605b58q8dejwilv/GOV-94IS-Syllabus.pdf?rlkey=58qw3w8l8ta8h0wlrhhqjw912&st=12v3desf&dl=0){: .btn--research}
+* Fall 2024, GOV 94IS: _Democracy and Authoritarianism in the Middle East and North Africa,_ Harvard University
+ 
 
 
 

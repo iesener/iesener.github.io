@@ -18,5 +18,34 @@ redirect_from:
 
 
 
-[Ipek's CV (July 2025)](https://www.dropbox.com/scl/fi/dsscnrx3w1caw5drnm644/IpekEceSener_CV_July2025.pdf?rlkey=bl9sqjd3axe74ljp6tdd96o5i&dl=0){: .btn--research}
+[Dropbox Link to CV](https://www.dropbox.com/scl/fi/bgaq83l5gnazjucjyuklb/Sener_CV_August2025.pdf?rlkey=8g4cgvfzwk7sxxyboul6pcbpj&dl=0){: .btn--research}
+ 
+<style>
+/* Smaller inline PDF box */
+.pdf-embed {
+  width: min(820px, 92vw);   /* narrower box */
+  height: 640px;             /* shorter box */
+  margin: 1rem 0 2rem 0;    /* center on page */
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+  overflow: hidden;
+}
+.pdf-embed iframe { width: 100%; height: 100%; display: block; border: 0; }
+
+@media (max-width: 640px) {
+  .pdf-embed { height: 70vh; } /* more compact on small screens */
+}
+</style>
+
+
+<div class="pdf-embed">
+  <iframe
+    src="{{ '/files/Sener_CV_August2025.pdf#view=FitH&zoom=page-width&toolbar=0' | relative_url }}"
+    width="100%"
+    height="100%"
+    style="border:0"
+    loading="lazy">
+  </iframe>
+</div>
 

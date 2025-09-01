@@ -1,0 +1,9 @@
+<div class="pdf-box">
+  <object data="{{ include.src }}#view=FitH"
+          type="application/pdf"
+          width="100%"
+          height="{{ include.height | default: '900' }}">
+    <p>Your browser can’t display PDFs inline.
+       <a href="{{ include.src }}">Open the PDF</a>.</p>
+  </object>
+</div>
