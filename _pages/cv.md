@@ -18,7 +18,7 @@ redirect_from:
 
 
 
-[Dropbox Link to CV](https://www.dropbox.com/scl/fi/bgaq83l5gnazjucjyuklb/Sener_CV_August2025.pdf?rlkey=8g4cgvfzwk7sxxyboul6pcbpj&dl=0){: .btn--research}
+[Dropbox Link to CV](https://www.dropbox.com/scl/fi/nhsnceoojiq62xayrpb33/IpekSener-CV.pdf?rlkey=dzz2idf087oknmjyytets2vfm&dl=0){: .btn--research}
  
 <style>
 /* Smaller inline PDF box */
@@ -41,7 +41,7 @@ redirect_from:
 
 <div class="pdf-embed">
   <iframe
-    src="{{ '/files/Sener_CV_August2025.pdf#view=FitH&zoom=page-width&toolbar=0' | relative_url }}"
+    src="{{ '/files/IpekSener-CV.pdf#view=FitH&zoom=page-width&toolbar=0' | relative_url }}"
     width="100%"
     height="100%"
     style="border:0"
