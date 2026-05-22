@@ -39,7 +39,7 @@ redirect_from:
 
 <div class="pdf-embed">
   <iframe
-    src="{{ '/files/IpekSener-CV.pdf#view=FitH&zoom=page-width&toolbar=0' | relative_url }}"
+    src="{{ '/files/Sener-CV.pdf#view=FitH&zoom=page-width&toolbar=0' | relative_url }}"
     width="100%"
     height="100%"
     style="border:0"
