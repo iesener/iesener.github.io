@@ -16,6 +16,11 @@ author_profile: true
 
 ### Instructor
 
+
+* Fall 2026, PoliSci 3329: _Politics of the Middle East,_ Western University
+
+
+
 * Spring 2025, GOV 1705: _Politics of War and Peace in the Middle East,_ Harvard University
  
 
